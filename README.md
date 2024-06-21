@@ -1,34 +1,34 @@
-# Airplane Crash Analysis using Power BI
+**Project Summary: Analyzing Airplane Crashes (1980-2023) Using Power BI**
 
-## PURPOSE
-Analyze airplane crashes (1980-2023) using Power BI for interactive visualizations.
+**Purpose:** 
+The purpose of this project is to analyze airplane crashes spanning from 1980 to 2023 using Power BI for interactive visualizations.
 
-## OBJECTIVES
-- Temporal and geospatial analysis of airplane crashes.
-- Analysis of operator and aircraft performance.
-- Fatality trends in airplane crashes.
-- Route analysis to identify patterns in crash occurrences.
+**Objectives:**
+1. Conduct temporal and geospatial analysis of airplane crashes.
+2. Analyze operator and aircraft performance based on crash data.
+3. Identify trends in fatalities related to airplane crashes.
+4. Perform route analysis to uncover patterns in crash occurrences.
 
-## KEY FEATURES OR COMPONENTS
-- Dataset includes crash details and information on fatalities.
+**Key Features or Components:**
+- Dataset includes comprehensive crash details and information on fatalities.
+  
+**Target Audience or Beneficiaries:**
+- Airplane companies aiming to gain insights to enhance aviation safety measures.
 
-## TARGET AUDIENCE OR BENEFICIARIES
-Airplane companies seeking insights to enhance aviation safety.
+**Methodology or Approach:**
+1. **Data Import:** Import the dataset in CSV format.
+2. **Data Transformation and Cleaning:**
+   - Remove empty values from the dataset.
+   - Adjust data types as necessary for analysis.
+   - Standardize inconsistent values.
+   - Rename columns to improve clarity and understanding.
+3. **Data Visualization:** Utilize Power BI to create interactive visualizations for comprehensive data exploration.
 
-## METHODOLOGY OR APPROACH
-1. **Import the Data**: Import the dataset as a CSV file.
-2. **Data Transformation and Cleaning**:
-   - Remove empty values.
-   - Change data types as necessary.
-   - Replace inconsistent values.
-   - Rename columns for clarity.
-3. **Visualize the Data**: Utilize Power BI for creating interactive visualizations.
+**Results:**
+- Identified Chicago O'Hare, Illinois, particularly along the route to Los Angeles, CA, as having the highest airplane fatality rate globally.
+- Highlighted the year 2001 with the highest global airplane fatality rate.
+- Established relationships between specific aircraft registrations (e.g., N110AA) and aircraft types (e.g., McDonnell Douglas DC-10-10) with the number of fatalities.
+- Identified correlations between specific operators (e.g., American Airlines) and the occurrence of fatalities based on their aircraft.
 
-## RESULTS
-- Chicago O'Hare, Illinois, especially along route (Chicago, IL - Los Angeles, CA), has the highest airplane fatality rate in the world.
-- The year 2001 had the highest airplane fatalities rate globally.
-- There is a relationship between the aircraft registration details (N110AA), AC Type (McDonnell Douglas DC-10-10), and the number of fatalities.
-- There is a relationship between the operator American Airlines with serial number (46510/22) and the number of fatalities.
-
-## EXPECTED OUTCOMES
-Enhance aviation safety by providing actionable insights from the analysis of airplane crash data.
+**Expected Outcomes:**
+The project aims to enhance aviation safety by providing actionable insights derived from the analysis of airplane crash data. These insights will help airplane companies implement targeted measures to improve safety protocols and operational practices.
